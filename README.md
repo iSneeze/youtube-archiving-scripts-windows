@@ -3,7 +3,7 @@ This repository is a collection of scripts useful for archiving and converting Y
 ## First steps:
 - Download binaries by running the `update.bat` script, it will download the latest yt-dlp and yt-archive binaries as well as install ffmpeg
 - replace empty `cookies.txt` file in folder `binaries` with your own, if you want to download and record members content:
-    - firefox: https://addons.mozilla.org/de/firefox/addon/cookies-txt/
+    - firefox: https://addons.mozilla.org/en/firefox/addon/cookies-txt/
     - chrome: https://chrome.google.com/webstore/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
     - install an extension, make sure you are logged in to youtube and extract your cookies for youtube. replace the empty `cookies.txt`.
 
